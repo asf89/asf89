@@ -6,6 +6,7 @@ Want to know more about me and my work? Feel free to check the links below!
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresouzaferreira/)
 [![image](https://img.shields.io/badge/dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/asf89)
+[![image](https://img.shields.io/badge/Functional%20Works-EF8374?style=for-the-badge)](https://functional.works-hub.com/users/55fda1fc-b4b9-4df6-9997-6b91ff1f25df)
 
 <!--
 **asf89/asf89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
