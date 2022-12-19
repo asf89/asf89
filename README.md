@@ -1,5 +1,11 @@
 # Welcome! 👋
 
+## Contact
+
+Want to know more about me and my work? Feel free to check the links below!
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresouzaferreira/)
+
 <!--
 **asf89/asf89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
